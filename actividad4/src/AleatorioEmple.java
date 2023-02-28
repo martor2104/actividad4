@@ -12,6 +12,7 @@ public class AleatorioEmple {
 	}
 
 	public static void leer() throws IOException {
+		//Metodo2
 		File fichero = new File("AleatorioEmple.dat");
 		RandomAccessFile file = new RandomAccessFile(fichero, "r");
 		char cad[] = new char[10], aux;
