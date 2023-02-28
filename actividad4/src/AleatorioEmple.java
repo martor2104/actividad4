@@ -6,6 +6,7 @@ public class AleatorioEmple {
 
 	//Ejemplo
 	public static void main(String[] args) throws IOException {
+		//Metodo1
 		crear();
 		leer();
 	}
